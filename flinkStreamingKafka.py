@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 
-@author: Hugo
+@author: Hugo Fajardo
 This program connects to Apache Kafka and reads the content of a registered topic.
 Processes the content of the topic in Apache Flink.
 
