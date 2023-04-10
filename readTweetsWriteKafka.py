@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 """
+
 @author: Hugo Fajardo
 This program connects to twitter.com and downloads tweets on a specific topic.
 Preprocess received tweets by removing special characters, urls and stopwords.
